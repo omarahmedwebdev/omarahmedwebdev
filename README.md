@@ -12,7 +12,6 @@ Currently, I’m creating my github profile for web development, I'm planning to
 📍 Giza, Egypt  
 📧 **omar.2123040@stemobour.moe.edu.eg**  
 📞 **+20 1120377445**  
-🔗 [LinkedIn](#) (insert your LinkedIn URL)  
 
 ---
 

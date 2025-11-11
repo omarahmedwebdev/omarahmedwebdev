@@ -47,10 +47,9 @@ Expected Graduation: **July 2026**
 ---
 
 ## 📬 Contact
-I’m open to collaborations and research projects in **AI**, **Web Engineering**, and **IoT Systems**.
+I’m open to collaborations and research projects in **AI** and **Web Engineering**.
 
 📧 **omar.2123040@stemobour.moe.edu.eg**  
-🔗 [LinkedIn](#) (insert link)  
 🌍 Giza, Egypt  
 
 ---

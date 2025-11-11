@@ -1,7 +1,7 @@
 # 🌐 Omar Ahmed — Web Development GitHub Account
 
 > **Note:** This GitHub account is dedicated exclusively to my **Web Development projects**.
-> All the showcased projects here are **independent practice projects** created by me using **publicly available datasets and open resources** for learning and experimentation purposes.
+> Some of the showcased projects here are **independent practice projects** created by me using **publicly available datasets and open resources** for learning and experimentation purposes.
 
 ---
 
